@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200&display=swap');
+/* font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif; */
+:root{
+    --main-bg-color: brown;
+    --font1:'Playfair Display', serif;
+    --font2:'Roboto', sans-serif; 
+    --font3: 'Noto Sans', sans-serif;
+}
+.m-auto{
+    margin:auto;
+}
+.max-width1{
+    width:80vw;
+}
+.max-width2{
+    width:60vw;
+}
